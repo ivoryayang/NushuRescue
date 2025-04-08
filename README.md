@@ -1,6 +1,4 @@
-# Datasets and Code for Nushu
-
-### :star: **The dataset files for Nushu are available [in this folder](./dataset/)**.
+# NushuRescue Project
 
 This is the repository for COLING'25 accepted paper: **NushuRescue: Reviving the Endangered Nushu Language with AI** [[COLING paper](https://arxiv.org/abs/2412.00218))].
 
